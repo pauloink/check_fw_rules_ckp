@@ -1,6 +1,6 @@
 import requests, json
 
-json_payload = {"user":"987301598","password":"7242333222"}
+json_payload = {"user":"admin","password":"admin"}
 ip_addr = "10.57.8.21"
 sid = ""
 port = "4433"
